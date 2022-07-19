@@ -27,7 +27,7 @@
     "jquery": "^3.4.1",
     "ngx-build-plus": "^7.8.3",
     "path": "^0.12.7",
-    "properties-reader": "^0.3.1",
+    "properties-reader": "^2.2.0",
     "rxjs": "~6.3.3",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
